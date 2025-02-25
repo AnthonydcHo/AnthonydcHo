@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/AnthonydcHo/post-install-config)
   - [osTicket: Creating and Working Tickets](https://github.com/AnthonydcHo/ticket-lifecycles)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AnthonydcHo/configure-ad)
+  - [Active Directory: Installation & Infrastructure](https://github.com/AnthonydcHo/configure-ad)
   - [Create a Virtual Machine/Resource Group in Azure](https://github.com/AnthonydcHo/virtualmachines)
 
 
