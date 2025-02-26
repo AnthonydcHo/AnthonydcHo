@@ -8,8 +8,8 @@
   - [osTicket: Creating and Working Tickets](https://github.com/AnthonydcHo/ticket-lifecycles)
 - <b>Microsoft Azure</b>
   - [Active Directory: Installation & Infrastructure](https://github.com/AnthonydcHo/configure-ad)
-  - [Create a Virtual Machine/Resource Group in Azure](https://github.com/AnthonydcHo/virtualmachines)
-
+  - [Active Directory: Deployment and Post-Installationn Configuration](https://github.com/AnthonydcHo/addeployment)
+  - [Active Directory - PART 3 COMING SOON)
 
 <h2>🤳Connect with me:</h2>
 
