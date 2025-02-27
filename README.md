@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Active Directory: Installation & Infrastructure](https://github.com/AnthonydcHo/configure-ad)
   - [Active Directory: Deployment and Post-Installation Configuration](https://github.com/AnthonydcHo/addeployment)
-  - [Active Directory - PART 3 COMING SOON)
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts with Active Directory](https://github.com/AnthonydcHo/usersactivedirectory)
 
 <h2>🤳Connect with me:</h2>
 
